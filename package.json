@@ -1,0 +1,14 @@
+{
+  "name": "eskill-arduino",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jo",
+  "license": "ISC",
+  "dependencies": {
+    "cote": "^1.0.0"
+  }
+}
